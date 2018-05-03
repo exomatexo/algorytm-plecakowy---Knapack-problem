@@ -1,0 +1,1 @@
+algorytm plecakowy - Knapack problem
